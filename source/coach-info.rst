@@ -10,6 +10,10 @@ Jdeš koučovat? Děkujeme! Tady je pár rad, jak na to.
 Začínáme v deset, ale předtím ještě musíme rozdělit účastnice do skupinek,
 a případně dořešit organizační problémy, tak prosím buď na místě už v **9:30**.
 
+Skončíme v šest.
+Přetahovat neplánujeme, ale radši počítej s tím, že se na cestu domů vydáš
+v **18:30**.
+
 
 Formát
 ------
