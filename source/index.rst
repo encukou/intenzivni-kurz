@@ -16,6 +16,7 @@ abych tomu mohl nastavil prioritu :)
 .. toctree::
    :maxdepth: 3
 
+   coach-info
    day-1
    day-2
    day-3
