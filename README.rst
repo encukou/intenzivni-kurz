@@ -1,4 +1,4 @@
 Intenzivní kurz Pythonu
 =======================
 
-Materiály pro intenzivní kurz Pythonu, který pořádají Czechitas a Pyvec.
+Přesunuto na: https://github.com/encukou/intenzivni-kurz-python/
